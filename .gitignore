@@ -4,4 +4,15 @@
 
 /TestDemo/.vs/TestDemo/v16
 
+/TestDemo/x64/Debug
+/TestDemo/TestThread/x64/Debug
+/TestDemo/TestKeywords/x64/Debug
+/TestDemo/TestCompile/x64/Debug
+/TestDemo/TestDll/x64/Debug
+/TestDemo/TestLib/x64/Debug
+
+*.obj
+*.idb
+*.ilk
+*.tlog
 *.vcxproj.user
